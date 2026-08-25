@@ -3,7 +3,7 @@
 CarePharm is a modern pharmacy e-commerce frontend built with React and TypeScript. It provides a responsive shopping experience for browsing healthcare products and accessing pharmacy-related services.
 
 ## Live Demo
-https://your-live-url.com
+https://carephar.netlify.app
 
 ## Screenshots
 
