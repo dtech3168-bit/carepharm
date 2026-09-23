@@ -48,3 +48,16 @@ https://carephar.netlify.app
 ```bash
 git clone https://github.com/dtech3168-bit/carepharm.git
 cd carepharm
+
+
+---
+Developer
+Smart Wisdom
+
+Frontend Developer focused on building responsive, interactive web applications and digital products.
+
+GitHub: https://github.com/dtech3168-bit
+Portfolio: https://digitechcom.netlify.app
+under Smartech Fullstack Innovations 
+## Visit site
+https://smartech.com.ng
