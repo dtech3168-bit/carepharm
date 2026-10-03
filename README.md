@@ -52,7 +52,7 @@ cd carepharm
 
 ---
 Developer
-Smart Wisdom
+Ezekwe (Smart) Wisdom
 
 Frontend Developer focused on building responsive, interactive web applications and digital products.
 
